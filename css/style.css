@@ -143,11 +143,11 @@ div > label {
 
 @media (min-width: 0) and (max-width: 768px) {
   header {
-    padding: 1.25em;
+    padding: 4em;
   }
   h1 {
-    font-size: 3.6em;
-    margin: .3em 0 0;
+    font-size: 1.6em;
+    margin: 2.3em 0 0;
   }
   ul li {
     margin-bottom: 1em;
@@ -157,7 +157,7 @@ div > label {
     -webkit-flex-direction: column;
     flex-direction: column;
     margin: auto;
-    margin-top: 2.5em;
+    margin-top: 3.5em;
   }
   form button {
     padding: 12px 0;
