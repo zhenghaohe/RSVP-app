@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2153,9 +2152,3 @@ To resolve this:
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
-=======
-# RSVP-app
-A simple RSVP web application where you can add people, edit names, check the box to confirm and filter those who haven't yet responded
-[live demo](https://zhenghaohe.github.io/RSVP-app/)
-![img](https://github.com/zhenghaohe/RSVP-app/blob/master/index.jpg)
->>>>>>> da2e2c8a3b49baa4a50e47981cc6ea8cac3c2c41
